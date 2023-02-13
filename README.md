@@ -4,8 +4,7 @@
   <img src="public/trove-logo.jpg" alt="logo"/>
 </div>
 
-## The Problem
-
+## The Problem  
 
 > How often do you share a link? Once a week? Once a day? Multiple types a day?
 > How often do you receive a link and say to yourself: "I’ll visit that later..."? 
@@ -53,6 +52,7 @@ To Start Server:
 To Visit App:
 
 `localhost:3000`  
+### ℹ️ The project's backend repo can be found [here](https://github.com/Hacktinium/trove-backend)
 
 ## Project Goals
 
