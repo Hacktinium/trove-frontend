@@ -18,10 +18,10 @@ What learners need is a dedicated and well-organised home for all these resource
 
 Trove is searchable, filterable and persistent store for all these wonderful learning resources, built using `PostgreSQL`, `Express`, `React`, and `Node.js`
 
-## Deployed Here! 🚀🚀
+## Deployed Here: [Trove Frontend](https://trove-frontend.onrender.com)  🚀🚀
 
-### [Trove Frontend](https://trove-frontend.onrender.com)  
-(please allow 10-20 seconds for the deployed backend to 'wake up', as we are using a 'hobbyist' account on out deployment site.)
+###  
+ℹ️ Please allow 10-20 seconds for the deployed backend to 'wake up', as we are using a 'hobbyist' account on our deployment site.
 
 ## Project Status
 <mark>This project is currently in development</mark>. Users can browse resources and filter by title, as well as adding a new resource to the collection. 
