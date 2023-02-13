@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to Trove!</h1>
 
-<p align="center">
+<div align="center">
   <img src="public/trove-logo.jpg" alt="logo"/>
-</p>
+</div>
 
 ## The Problem
 
@@ -18,6 +18,11 @@ What learners need is a dedicated and well-organised home for all these resource
 ## Our Solution
 
 Trove is searchable, filterable and persistent store for all these wonderful learning resources, built using `PostgreSQL`, `Express`, `React`, and `Node.js`
+
+## Deployed Here! 🚀🚀
+
+### [Trove Frontend](https://trove-frontend.onrender.com)  
+(please allow 10-20 seconds for the deployed backend to 'wake up', as we are using a 'hobbyist' account on out deployment site.)
 
 ## Project Status
 <mark>This project is currently in development</mark>. Users can browse resources and filter by title, as well as adding a new resource to the collection. 
